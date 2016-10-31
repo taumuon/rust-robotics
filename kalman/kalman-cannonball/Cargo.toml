@@ -1,0 +1,8 @@
+[package]
+name = "kalman-cannonball"
+version = "0.1.0"
+authors = ["garym"]
+
+[dependencies]
+nalgebra = "0.10.1"
+rand = "0.3.14"
